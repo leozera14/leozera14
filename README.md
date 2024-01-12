@@ -1,5 +1,5 @@
 # 💫 About Me:
-Blockchain Fullstack Developer<br>Currently working at @pollum.io<br>Javascript & Web3 lover and enthusiastic
+Blockchain Fullstack Developer<br>Javascript & Web3 lover and enthusiastic<br>
 
 
 ## 🌐 Socials:
